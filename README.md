@@ -16,7 +16,9 @@ Document security findings
 🛠️ Tools Used
 
 Kali Linux— Security-focused operating system
+
 Nmap — Network discovery & port scanning
+
 Wireshark — Network protocol & packet analysis
 
 🧪 Project Workflow
